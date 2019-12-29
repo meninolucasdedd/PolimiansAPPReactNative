@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808496835232",
+    "firebase_url": "https://polimians-app.firebaseio.com",
+    "project_id": "polimians-app",
+    "storage_bucket": "polimians-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808496835232:android:06bb210ead7740b2f1b7c5",
+        "android_client_info": {
+          "package_name": "com.polimians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808496835232-j1ofcc0i4m8ukul0lm6ddmtun8vqqd4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWsDR5hftLd_aDYziwxB8VElxaoA8Ff0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808496835232-j1ofcc0i4m8ukul0lm6ddmtun8vqqd4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
